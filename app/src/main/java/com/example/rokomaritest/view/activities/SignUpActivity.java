@@ -40,12 +40,12 @@ public class SignUpActivity extends BaseActivity {
                 showToast(getString(R.string.please_insert_password));
             }
             else {
-                callSignInApi(name,email,pass);
+                callSignUpApi(name,email,pass);
             }
         });
     }
 
-    private void callSignInApi(String name, String email, String pass) {
+    private void callSignUpApi(String name, String email, String pass) {
 
         if (isValidEmail(email)){
             authenticationManager = new AuthenticationManager(this);
