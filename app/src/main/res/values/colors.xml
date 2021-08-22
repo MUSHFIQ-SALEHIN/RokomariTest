@@ -1,10 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="colorPrimaryDark">#14B4DA</color>
+    <color name="colorPrimaryLight">#6DCBE6</color>
+    <color name="colorPrimaryDark2">#26BBB4</color>
+    <color name="colorPrimaryLight2">#82CDCB</color>
+    <color name="colorOrangeDark">#E28D25</color>
+    <color name="colorOrangeLight">#F3B01B</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorWhiteLight">#E7FEFEFE</color>
+    <color name ="blueButton">#2167bb</color>
+    <color name ="blue">#054694</color>
+
+    <color name ="colorAccent">#EE2626</color>
+
+    <color name ="MagentaDark">#E4225D</color>
+    <color name ="MagentaLight">#EF527F</color>
+
+    <color name ="PurpleLight">#B84771</color>
+    <color name ="PurpleDark">#702544</color>
+
+    <color name ="GreenLight">#E2E88A</color>
+    <color name ="GreenDark">#8BA63D</color>
+
+    <color name ="Gray">#5D5D5D</color>
+
+
+    <color name ="purple">#7e2b63</color>
+    <color name="allMenuBackground">#f1f1f3</color>
+
+    <color name ="black">#EB000000</color>
 </resources>
